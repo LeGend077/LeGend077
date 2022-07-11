@@ -10,9 +10,9 @@
 
 - Learning Game Dev.
 
-- Discord: LeGend#1687
+- Discord: LeGend#1687.
 
-- Currently Working as a Web Developer
+- Currently Working as a Web Developer.
 
 [![LeGend077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeGend077&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
