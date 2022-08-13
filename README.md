@@ -6,7 +6,7 @@
 
 - Ask me about your JSON UI Problems.
 
-- [Share my Profile becuase I'm COOL](https://github.com/LeGend077).
+- [Share my Profile because I'm COOL](https://github.com/LeGend077).
 
 - Learning Game Dev.
 
