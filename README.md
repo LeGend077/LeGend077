@@ -8,11 +8,9 @@
 
 - [Share my Profile because I'm COOL](https://github.com/LeGend077).
 
-- Learning Game Dev.
-
 - Discord: LeGend#1687.
 
-- Currently Working as a Web Developer.
+- Web Developing (Learning).
 
 [![LeGend077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeGend077&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
