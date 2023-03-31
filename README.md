@@ -8,7 +8,7 @@
 
 - Discord: LeGend#1687.
 
-[![LeGend077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeGend077&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![LeGend077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeGend077&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeGend077)](https://github.com/anuraghazra/github-readme-stats)
 
