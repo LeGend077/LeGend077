@@ -2,7 +2,7 @@
 
 Learning Game Developement in _Godot_.
 
-I also craft **Minecraft Bedrock** Add-Ons.
+I also craft **Minecraft Bedrock** Add-Ons. (I'm only good at UI atm)
 
 Discord: legend077 (Old: LeGend#1687).
 
