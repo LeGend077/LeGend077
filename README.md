@@ -2,7 +2,7 @@ Hey! *My name is LeGend*.
 
 I make **Minecraft: Bedrock** Add-Ons.
 
-Good at JSON UI. Also learning other aspects of development.
+Good at JSON UI (Cool JSON UI Guy). Also learning other aspects of development.
 
 Discord: legend077 (With discriminator: LeGend#1687).
 
