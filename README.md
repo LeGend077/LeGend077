@@ -1,8 +1,11 @@
 Hey! *My name is LeGend*.
 
-I make **Minecraft: Bedrock** Add-Ons.
+Learning Backend (MongoDB and Nodejs) 💀
 
-Good at JSON UI. Also learning other aspects of development. Discord Server: [https://discord.gg/JTpeCEeqkQ](https://discord.gg/JTpeCEeqkQ) (0 members lol).
+I make **Minecraft: Bedrock** Add-Ons.
+Good at JSON UI. Also learning other aspects of development.
+
+<iframe src="https://discord.com/widget?id=1123129772319457353&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 Discord: legend077 (With discriminator: LeGend#1687).
 
