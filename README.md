@@ -5,8 +5,6 @@ Learning Backend (MongoDB and Nodejs) 💀
 I make **Minecraft: Bedrock** Add-Ons.
 Good at JSON UI. Also learning other aspects of development.
 
-<iframe src="https://discord.com/widget?id=1123129772319457353&theme=dark"></iframe>
-
 Discord: legend077 (With discriminator: LeGend#1687).
 
 <!--  [![views-count](https://komarev.com/ghpvc/?username=LeGend077&style=for-the-badge)](https://github.com/LeGend077) -->
