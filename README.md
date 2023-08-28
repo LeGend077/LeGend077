@@ -1,6 +1,6 @@
 Hey! *My name is LeGend*.
 
-Learning Backend (MongoDB and Nodejs) 💀
+Learning Nodejs 💀
 
 I make **Minecraft: Bedrock** Add-Ons.
 Good at JSON UI. Also learning other aspects of development.
