@@ -4,10 +4,9 @@ I started web development and learned basic html, css and javascript and some am
 Repositories that are listed here are the only one's active. Others are abandoned.
 
 ## Current Projects
-- Busy
+- Cryptic Depths Add-On (https://github.com/LeGend077/Cryptic-Depths/)
 
 ## Other Passive Projects
 You may find these in my repositories tab.
-- Cryptic Depths Map and Add-On (https://github.com/LeGend077/Cryptic-Depths/)
 - JSON UI Examples (https://github.com/LeGend077/json-ui-examples/)
 - Chest UI (https://github.com/Herobrine643928/Chest-UI/)
