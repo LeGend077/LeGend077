@@ -5,8 +5,5 @@ Repositories that are listed here are the only one's active. Others are abandone
 
 ## Current Projects
 - Cryptic Depths Add-On (https://github.com/LeGend077/Cryptic-Depths/)
-
-## Other Passive Projects
-You may find these in my repositories tab.
-- JSON UI Examples (https://github.com/LeGend077/json-ui-examples/)
 - Chest UI (https://github.com/Herobrine643928/Chest-UI/)
+- JSON UI Examples (https://github.com/LeGend077/json-ui-examples/)
