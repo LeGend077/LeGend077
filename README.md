@@ -1,9 +1,9 @@
 ## About
 
-Learning Web Developement... and low level programming.
+Learning programming and web.
 
 ## Gaming
 
-Youtube: https://www.youtube.com/@legendx077
+Youtube: https://www.youtube.com/@legendx077 (i dont do minecraft anymore)
 
 Curseforge: https://www.curseforge.com/members/legend077/
